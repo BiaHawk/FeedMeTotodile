@@ -1,6 +1,6 @@
-# entrega1
+# atividade 1
 
-A new Flutter application.
+entrega da atividade de desenvolvimento de sistemas
 
 ## Getting Started
 
